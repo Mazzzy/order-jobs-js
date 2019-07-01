@@ -1,6 +1,11 @@
 # order-jobs-js
 JS based solution for job ordering process
 
+# Run test cases
+ * Node shoul be installed on machine
+ * After that go to terminal, under project repo, type ``` npm install ```
+ * Then to run test cases, type ``` npm run test ```
+ 
 # Purpose:
 The purpose of this exercise is to see how you approach a problem, and how you solve it. We’re interested to see how you structure
 your Ruby code, your command of the language and good design and testing principles, bear this in mind throughout.
